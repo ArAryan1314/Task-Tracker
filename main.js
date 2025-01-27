@@ -1,1 +1,3 @@
-console.log("Tracker Log data");
+const davidData = "length";
+
+console.log(davidData);
